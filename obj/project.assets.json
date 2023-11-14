@@ -930,11 +930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\octav\\Downloads\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\octav\\Downloads\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\octav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\octav\\Downloads\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\octav\\OneDrive\\Área de Trabalho\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\octav\\AppData\\Roaming\\NuGet\\NuGet.Config",
